@@ -65,7 +65,7 @@ Reverse-Shell/
 │── scripts/           # Carpeta con los scripts de la reverse shell
 │   │── shell.py       # Script de reverse shell para Windows
 │   │── shell.sh       # Script de reverse shell para Linux
-│── config.bat         # Configuración inicial en 
+│── config.sh          # Configuración inicial
 ``` 
 
 ---
