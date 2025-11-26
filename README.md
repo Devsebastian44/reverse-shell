@@ -4,8 +4,7 @@
   <img src="./Img/Logo.png" height="300px" width="350px">
 </p>
 
-Una **reverse shell** es una técnica utilizada en ciberseguridad que permite establecer una conexión entre un atacante y una máquina objetivo, otorgando acceso remoto para ejecutar comandos.  
-Este proyecto incluye scripts para configurar una reverse shell en **Windows** y **Linux** con fines educativos.
+Una **reverse shell** es una técnica utilizada en ciberseguridad que permite establecer una conexión entre un atacante y una máquina objetivo, otorgando acceso remoto para ejecutar comandos. Este proyecto incluye scripts para configurar una reverse shell en **Windows** y **Linux** con fines educativos.
 
 ---
 
@@ -72,13 +71,10 @@ Reverse-Shell/
 
 ## 📜 Licencia
 
-Este proyecto está bajo la licencia MIT.  
-Puedes usarlo libremente con fines educativos y de investigación.
+Este proyecto está bajo la licencia MIT. Puedes usarlo libremente con fines educativos y de investigación.
 
 ---
 
 ## ⚠️ Aviso
 
-Este script ha sido desarrollado únicamente con fines **educativos y de investigación en ciberseguridad**.  
-El uso indebido de este material puede ser **ilegal**.  
-No me responsabilizo del mal uso ni de los daños que puedan ocasionarse por su ejecución.
+Este script ha sido desarrollado únicamente con fines **educativos y de investigación en ciberseguridad**. El uso indebido de este material puede ser **ilegal**. No me responsabilizo del mal uso ni de los daños que puedan ocasionarse por su ejecución.
